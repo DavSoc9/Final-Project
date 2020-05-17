@@ -1,4 +1,4 @@
-/**
+/*
  *  Final Project
  *  This class allows us to see the display screen about the books
  *  CS108
