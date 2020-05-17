@@ -1,4 +1,4 @@
-/**
+/*
  *  Final Project
  *  This class allows us to store books and see if we already have them
  *  CS108
