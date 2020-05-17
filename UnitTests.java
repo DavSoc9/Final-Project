@@ -1,4 +1,4 @@
-/**
+/*
  *  Final Project
  *  This class allows us to test our code about our books
  *  CS108
