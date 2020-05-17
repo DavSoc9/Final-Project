@@ -1,4 +1,4 @@
-/**
+/*
  *  Final project
  *  This class helps us find the books in a binary search
  *  CS108
