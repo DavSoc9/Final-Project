@@ -1,4 +1,4 @@
-/**
+/*
  *  Final Project
  *  This abstract class allows us to see books
  *  CS108
